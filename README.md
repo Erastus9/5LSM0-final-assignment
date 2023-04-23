@@ -25,5 +25,5 @@ Then it is necessary to compose the 3 conditions (rain, snow, night) into 3 trai
 This is the combined dataset used in the assignment: [link](https://drive.google.com/file/d/1OJN8Fxggm_2eU44QXnSqYqlYeODsoRoe/view?usp=share_link)
 Use this as a replacement for the original set.  
 # Reference on coding process:
-Dataset : [github](https://github.com/vnmusat/multi-weather-city)
+Dataset : [github](https://github.com/vnmusat/multi-weather-city)  
 Some Coding part about the Deeplab structure: [github](https://github.com/bubbliiiing/deeplabv3-plus-pytorch)
